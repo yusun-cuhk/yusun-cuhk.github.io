@@ -18,7 +18,6 @@ My research focuses on modeling and robust optimization in the diverse context o
 
 Talks
 -
-```markdown
 <!-- include mytalk.md --> 
 
 Upcoming Talks at the 2024 INFORMS Annual Meeting in Seattle
