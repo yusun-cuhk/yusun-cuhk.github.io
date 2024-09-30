@@ -14,23 +14,15 @@ My research interests lie in modeling and robust optimization in the diverse con
 
 
 Upcoming Talks
-======
+--
 1. Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization
-
-_Daniel Zhuoyu Long, **Yu Sun**, Ruxian Wang_
-
-Session title: SC15 - Advancements in choice modeling and assortment optimization
-
-Location: Summit 335
-
-Time: Sunday, October 20, 12:45 PM – 2:00 PM
+   _Daniel Zhuoyu Long, **Yu Sun**, Ruxian Wang_
+   Session title: SC15 - Advancements in choice modeling and assortment optimization
+   Location: Summit 335
+   Time: Sunday, October 20, 12:45 PM – 2:00 PM
 
 2. Distributionally Robust Group Testing with Correlation Information
-
-_Daniel Zhuoyu Long, Jin Qi, **Yu Sun**, Aiqi Zhang_
-
-Session title: MD57 - Healthcare Analytics and Operations
-
-Location: Summit – Terrace Suite 1
-
-Time: Monday, October 21, 2:15 PM – 3:30 PM
+   _Daniel Zhuoyu Long, Jin Qi, **Yu Sun**, Aiqi Zhang_
+   Session title: MD57 - Healthcare Analytics and Operations
+   Location: Summit – Terrace Suite 1
+   Time: Monday, October 21, 2:15 PM – 3:30 PM
