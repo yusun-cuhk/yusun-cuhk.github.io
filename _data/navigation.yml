@@ -8,13 +8,13 @@ main:
   # - title: "Research"
   #   url: /publications/
   - title: "Research"
-    url: /research/
+    url: /myresearch/
 
   - title: "Talks"
-    url: /talks/    
+    url: /mytalk/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /myteaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
