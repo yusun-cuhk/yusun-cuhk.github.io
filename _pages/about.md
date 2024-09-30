@@ -13,6 +13,8 @@ Prior to my Ph.D., I obtained my bachelor’s degree in Industrial Engineering f
 
 My research focuses on modeling and robust optimization in the diverse context of healthcare, discrete choice models, and revenue management. You can find my CV [here](../assets/YuSunCV.pdf).
 
+- title="Research"
+  url = /myresearch/
 
 Upcoming Talks at the 2024 INFORMS Annual Meeting in Seattle
 -
