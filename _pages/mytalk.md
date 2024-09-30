@@ -5,10 +5,8 @@ permalink: /mytalk/
 author_profile: true
 ---
 
-Upcoming Talks
+Upcoming Talks at the 2024 INFORMS Annual Meeting in Seattle
 -
-**2024 INFORMS Annual Meeting, Seattle**
-
 **Title: Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization**
 
 Session: SC15 - Advancements in choice modeling and assortment optimization
