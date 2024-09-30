@@ -22,9 +22,9 @@ repository               : "i-yusun/i-yusun.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yu Sun"
+  name             : "Yu Sun (孙瑜)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate at The Chinese University of Hong Kong"
+  bio              : "The Chinese University of Hong Kong"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
