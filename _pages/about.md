@@ -25,7 +25,7 @@ Location: Summit 335
 
 Time: Sunday, October 20, 12:45 PM – 2:00 PM
 
-**Title: Distributionally Robust Group Testing with Correlation Information** (My coauthor)
+**Title: Distributionally Robust Group Testing with Correlation Information**
 
 Session: MD57 - Healthcare Analytics and Operations
 
