@@ -13,8 +13,6 @@ author_profile: true
 
 - Excellent Student Cadres, Education Department of Jiangsu Province, China, 2019
 
-- Ruihua Dream Scholarship, Nanjing University, 2019
-
 - National Scholarship, Ministry of Education, China, 2018
 
 - Excellent Student Cadres, Nanjing University, 2018
