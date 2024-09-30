@@ -15,22 +15,17 @@ My research focuses on modeling and robust optimization in the diverse context o
 
 Upcoming Talks
 -
-1. **Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization**
+**2024 INFORMS Annual Meeting, Seattle**
 
-   _Daniel Zhuoyu Long, **Yu Sun**, Ruxian Wang_
+Title: Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization**
 
-   Session title: SC15 - Advancements in choice modeling and assortment optimization
+Session: SC15 - Advancements in choice modeling and assortment optimization
 
-   Location: Summit 335
+Location: Summit 335
 
-   Time: Sunday, October 20, 12:45 PM – 2:00 PM
+Time: Sunday, October 20, 12:45 PM – 2:00 PM
 
-3. **Distributionally Robust Group Testing with Correlation Information**
-
-   _Daniel Zhuoyu Long, Jin Qi, **Yu Sun**, Aiqi Zhang_
-
-   Session title: MD57 - Healthcare Analytics and Operations
-
-   Location: Summit – Terrace Suite 1
-
-   Time: Monday, October 21, 2:15 PM – 3:30 PM
+Title: Distributionally Robust Group Testing with Correlation Information**
+Session: MD57 - Healthcare Analytics and Operations
+Location: Summit – Terrace Suite 1
+Time: Monday, October 21, 2:15 PM – 3:30 PM
