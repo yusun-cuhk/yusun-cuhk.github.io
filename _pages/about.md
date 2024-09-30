@@ -17,7 +17,7 @@ Upcoming Talks
 -
 **2024 INFORMS Annual Meeting, Seattle**
 
-Title: Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization**
+**Title: Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization**
 
 Session: SC15 - Advancements in choice modeling and assortment optimization
 
@@ -25,7 +25,10 @@ Location: Summit 335
 
 Time: Sunday, October 20, 12:45 PM – 2:00 PM
 
-Title: Distributionally Robust Group Testing with Correlation Information**
+**Title: Distributionally Robust Group Testing with Correlation Information** (My coauthor)
+
 Session: MD57 - Healthcare Analytics and Operations
+
 Location: Summit – Terrace Suite 1
+
 Time: Monday, October 21, 2:15 PM – 3:30 PM
