@@ -21,7 +21,11 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
+  - title: "Awards/Honors"
+    url: /myaward/
+
+  
   - title: "CV"
     url: /assets/YuSunCV.pdf
     #/cv/
