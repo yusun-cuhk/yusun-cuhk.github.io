@@ -16,6 +16,9 @@ SEEM 3620: Introduction to Logistics and Supply Chain Management,	Spring 2023
 SEEM 5710: Principles of Operations Management (Graduate Level),	Fall 2021 / Fall 2022/ Fall 2023 / Fall 2024
 
 
+
+
+
 **Teaching Assistant, The Chinese University of Hong Kong, Shenzhen**
 
 LSC 5710: Transportation Logistics (EMSc Level), Fall	2023
