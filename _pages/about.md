@@ -16,6 +16,10 @@ My research focuses on modeling and robust optimization in the diverse context o
 - title="Research"
   url = /myresearch/
 
+Talks
+-
+    url: /mytalk/    
+
 Upcoming Talks at the 2024 INFORMS Annual Meeting in Seattle
 -
 
