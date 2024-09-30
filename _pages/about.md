@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in the Department of [Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/). 
-Before my Ph.D., I received my bachelor’s degree in Industrial Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2020.
+I am a fifth-year Ph.D. candidate in the Department of [Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) under the guidance of Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/). 
+Prior to my Ph.D., I obtained my bachelor’s degree in Industrial Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2020.
 
-My research interests lie in modeling and robust optimization in the diverse context of healthcare, discrete choice models, and revenue management. You can find my CV here:  [Yu Sun's CV](../assets/Curriculum_Vitae.pdf).
+My research focuses on modeling and robust optimization in the diverse context of healthcare, discrete choice models, and revenue management. You can find my CV [here](../assets/Curriculum_Vitae.pdf).
 
 
 Upcoming Talks
