@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yu Sun (CUHK)"
+title                    : "Yu Sun"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "i-yusun/i-yusun.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yu Sun"
-  pronouns         : # example: "she/her"  
+  name             : "Yu Sun (孙瑜)"
+  pronouns         : “Pronouciation: Yoo Soon” # example: "she/her"  
   bio              : "sunyu@se.cuhk.edu.hk
   
       The  Chinese  U"
