@@ -27,9 +27,9 @@ author:
   bio              : "sunyu@se.cuhk.edu.hk"
   # bio              : "The Chinese University of Hong Kong"
   location         : #"Earth"
-  employer         : "Chinese University of Hong Kong"
+  # employer         : "Chinese University of Hong Kong"
   uri              : # URL
-  email            : "sunyu@se.cuhk.edu.hk" 
+  # email            : "sunyu@se.cuhk.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
